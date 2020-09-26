@@ -63,5 +63,7 @@ Paul A. Hodgetts and Rohan Alexander (2020). cesR: Access the CES Datasets a Lit
 
 Rourke K. and Sinnott R., 2006. The determinants of individual attitudes towards immigration. European Journal of Political Economy. 22:838-861. 
 
+Stephenson, Laura B; Harell, Allison; Rubenson, Daniel; Loewen, Peter John, 2020, '2019 Canadian Election Study - Phone Survey', https://doi.org/10.7910/DVN/8RHLG1, Harvard Dataverse, V1, UNF:6:eyR28qaoYlHj9qwPWZmmVQ== [fileUNF]
+
 Wickham et al., (2019). Welcome to the tidyverse. Journal of Open Source Software, 4(43), 1686,
   https://doi.org/10.21105/joss.01686
